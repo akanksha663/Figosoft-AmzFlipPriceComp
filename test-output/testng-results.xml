@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-15T20:45:12 IST" name="Default suite" finished-at="2020-01-15T20:45:58 IST" duration-ms="45143">
+    <groups>
+    </groups>
+    <test started-at="2020-01-15T20:45:12 IST" name="Default test" finished-at="2020-01-15T20:45:58 IST" duration-ms="45143">
+      <class name="Selenium.Figosoft.testing.driverTestClass.ExecutionEngine">
+        <test-method is-config="true" signature="start()[pri:0, instance:Selenium.Figosoft.testing.driverTestClass.ExecutionEngine@18ce0030]" started-at="2020-01-15T20:45:12 IST" name="start" finished-at="2020-01-15T20:45:12 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Selenium.Figosoft.testing.driverTestClass.ExecutionEngine@18ce0030]" started-at="2020-01-15T20:45:13 IST" name="beforeMethod" finished-at="2020-01-15T20:45:25 IST" duration-ms="12843" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Selenium.Figosoft.testing.driverTestClass.ExecutionEngine.amazonTest() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="amazonTest()[pri:1, instance:Selenium.Figosoft.testing.driverTestClass.ExecutionEngine@18ce0030]" started-at="2020-01-15T20:45:25 IST" name="amazonTest" finished-at="2020-01-15T20:45:36 IST" duration-ms="10579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.Figosoft.testing.driverTestClass.ExecutionEngine@18ce0030]" started-at="2020-01-15T20:45:36 IST" name="afterMethod" finished-at="2020-01-15T20:45:37 IST" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Selenium.Figosoft.testing.driverTestClass.ExecutionEngine@18ce0030]" started-at="2020-01-15T20:45:37 IST" name="beforeMethod" finished-at="2020-01-15T20:45:49 IST" duration-ms="11863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Selenium.Figosoft.testing.driverTestClass.ExecutionEngine.flipkartTest() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="flipkartTest()[pri:2, instance:Selenium.Figosoft.testing.driverTestClass.ExecutionEngine@18ce0030]" started-at="2020-01-15T20:45:49 IST" name="flipkartTest" finished-at="2020-01-15T20:45:57 IST" duration-ms="8267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.Figosoft.testing.driverTestClass.ExecutionEngine@18ce0030]" started-at="2020-01-15T20:45:57 IST" name="afterMethod" finished-at="2020-01-15T20:45:58 IST" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="endResult()[pri:0, instance:Selenium.Figosoft.testing.driverTestClass.ExecutionEngine@18ce0030]" started-at="2020-01-15T20:45:58 IST" name="endResult" finished-at="2020-01-15T20:45:58 IST" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endResult -->
+      </class> <!-- Selenium.Figosoft.testing.driverTestClass.ExecutionEngine -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
